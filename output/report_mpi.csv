@@ -1,0 +1,11 @@
+image,width,height,operations,mode,processes,runtime_ms
+test_100x100.png,100,100,mirrored+blur+sharpen+edge,mpi,8,72
+test_200x200.png,200,200,mirrored+blur+sharpen+edge,mpi,8,50
+test_300x300.png,300,300,mirrored+blur+sharpen+edge,mpi,8,58
+test_400x400.png,400,400,mirrored+blur+sharpen+edge,mpi,8,45
+test_500x500.png,500,500,mirrored+blur+sharpen+edge,mpi,8,80
+test_600x600.png,600,600,mirrored+blur+sharpen+edge,mpi,8,90
+test_700x700.png,700,700,mirrored+blur+sharpen+edge,mpi,8,114
+test_800x800.png,800,800,mirrored+blur+sharpen+edge,mpi,8,127
+test_900x900.png,900,900,mirrored+blur+sharpen+edge,mpi,8,159
+test_1000x1000.png,1000,1000,mirrored+blur+sharpen+edge,mpi,8,183
